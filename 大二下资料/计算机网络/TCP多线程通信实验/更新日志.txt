@@ -1,0 +1,11 @@
+1.形参 fp_res
+2.len_h len_n                                                 TCP1
+3.pin_h pin_n                                                 TCP2
+4.buf→buffer                                                TCP3
+5.sig_type sig_to_exit                                     TCP4
+6.fp_td fn_td                                                  TCP5
+7.pid_chld                                                      TCP6  ×
+8.cli_addr_len connfd conc_amnt                    TCP7
+9.fn_res ip_str                                                 TCP8
+10.res→result                                                 TCP9
+11.int result = -1;换顺序    char *buffer = NULL;顺序      TCP10
